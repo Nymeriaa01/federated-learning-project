@@ -13,7 +13,7 @@ The final report is co-signed by four authors:
 
 | Author | |
 |---|---|
-| **Giovanna Brod Zamojska** | main author of the codebase — code architecture, experiment manager, masking strategies |
+| **Giovanna Brod Zamojska** | co-author — code architecture, experiment manager; also the person who pushed the team's code to GitHub |
 | **Réda Ouzzane** | co-author |
 | **Florian Magnan** | co-author — that's me |
 | **Niloofar Vazirpanah** | co-author of the report (wrote the introduction) |
@@ -59,8 +59,10 @@ adds this note.
 
 Two reasons, and I would rather state them than let anyone draw their own conclusions:
 
-- The day-to-day development happened in a **separate repository that is private**, owned by
-  Giovanna Brod Zamojska, plus a good deal of pair work on Google Colab.
+- The day-to-day development happened in a **separate repository that is private**, plus a
+  good deal of pair work on Google Colab. Whoever had the repository open pushed the code,
+  including work written by the others — so commit authorship there says little about who
+  wrote what.
 - **This** repository is a re-upload: Réda published the project here in a single batch on
   20 August 2025, months after the work was finished. Every commit therefore carries his name,
   and the history documents nobody's contribution — not his, not mine.
