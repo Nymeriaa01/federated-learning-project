@@ -13,10 +13,10 @@ The final report is co-signed by four authors:
 
 | Author | |
 |---|---|
-| **Giovanna Brod Zamojska** (s337350) | main author of the codebase — code architecture, experiment manager, masking strategies |
-| **Réda Ouzzane** (s347803) | co-author |
-| **Florian Magnan** (s347801) | co-author — that's me |
-| **Niloofar Vazirpanah** (s340784) | co-author of the report (wrote the introduction) |
+| **Giovanna Brod Zamojska** | main author of the codebase — code architecture, experiment manager, masking strategies |
+| **Réda Ouzzane** | co-author |
+| **Florian Magnan** | co-author — that's me |
+| **Niloofar Vazirpanah** | co-author of the report (wrote the introduction) |
 
 The code and experimental work was carried out by three of us: Giovanna, Réda and myself.
 
@@ -31,19 +31,6 @@ then developed as a pair, taking turns part by part on the same files — which 
 split our respective contributions commit by commit.
 
 The project was graded **28/30**.
-
-### Why the git history doesn't show this
-
-Two reasons, and I would rather state them than let anyone draw their own conclusions:
-
-- The day-to-day development happened in a **separate repository that is private**, owned by
-  Giovanna Brod Zamojska, plus a good deal of pair work on Google Colab. Giovanna wrote the
-  majority of that codebase.
-- **This** repository is a re-upload: Réda published the project here in a single batch on
-  20 August 2025, months after the work was finished. Every commit therefore carries his name,
-  and the history documents nobody's contribution — not his, not mine.
-
-So the commit log here should not be read as a record of who did what.
 
 ## The project in two lines
 
@@ -64,4 +51,18 @@ FedAvg IID 72.41%; FedAvg non-IID 66.51%.
 ## License
 
 The upstream repository carries an MIT license. This fork modifies no source file — it only
-adds this note and the final report.
+adds this note.
+
+---
+
+### Why the git history doesn't reflect the above
+
+Two reasons, and I would rather state them than let anyone draw their own conclusions:
+
+- The day-to-day development happened in a **separate repository that is private**, owned by
+  Giovanna Brod Zamojska, plus a good deal of pair work on Google Colab.
+- **This** repository is a re-upload: Réda published the project here in a single batch on
+  20 August 2025, months after the work was finished. Every commit therefore carries his name,
+  and the history documents nobody's contribution — not his, not mine.
+
+So the commit log here should not be read as a record of who did what.
