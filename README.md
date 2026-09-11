@@ -1,3 +1,10 @@
+> **ℹ️ This is a fork.** This project was published by [Réda Ouzzane](https://github.com/redaouzz).
+> I am a **co-author of the project, not the author of this repository**. See
+> **[CONTRIBUTION.md](CONTRIBUTION.md)** for exactly what I did, what I did not do, and who did
+> the rest. — [Florian Magnan](https://github.com/Nymeriaa01)
+
+---
+
 # federated-learning-project
 
 # Notebooks
